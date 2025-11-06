@@ -55,5 +55,4 @@ It shows that I can teach technical topics without losing the audience — even 
 
 
 ### References  
-Source presentation: The Evolution of Artificial Intelligence: From Concept to Reality – A Timeline of Key Milestones and Innovations
-
+Udokoro, M. (2025). The evolution of artificial intelligence: From concept to reality – A timeline of key milestones and innovations [PowerPoint slides]. GitHub. https://github.com/mcdonaldudokoro-ai/Artifact1
